@@ -37,7 +37,7 @@ head:
 ---
 
 # Boilerplate
-
+- [Neon NestJs Clean Architecture Boilerplate](https://github.com/AndreiMorosan/nestjs-minimal-boilerplate) - This boilerplate was created for everyone who wants to start a NestJS project using a Clean Architecture approach with a Neon (PostgreSQL) database and TypeORM.
 - [Clean NestJs architecture](https://github.com/MoeidHeidari/sudoku-challenge) - This boilerplate show how to setup a clean architecture with NestJs including unit, integration and e2e tests.
 - [🧪 Fully tested NestJS Prisma Clean Architecture Boilerplate](https://github.com/VincentJouanne/nest-clean-architecture-ddd-example) - This boilerplate shows how to test your NestJS API with unit, integration and e2e tests. Use-cases are written in functionnal programming with FP-TS.
 - [NestJS Permission Boilerplate](https://github.com/Ferdysd96/nestjs-permission-boilerplate) - This is a basic NestJS boilerplate project built on the more powerful Node.js framework. The main purpose of this project is to dynamically handle roles and permissions assigned to the user.
